@@ -1,7 +1,7 @@
 // src/worker.js
 import { connect } from "cloudflare:sockets";
 
-let Pswd = "trojan";
+let Pswd = "gdx7291785";
 const proxyIPs = [""];
 
 // 添加需要直接使用NAT64的域名列表，支持从环境变量扩展
